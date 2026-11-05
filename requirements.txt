@@ -1,0 +1,7 @@
+numpy==2.3.3
+matplotlib==3.10.7
+Pyro4==4.82
+serpent==1.43
+Flask==3.1.3
+requests==2.32.3
+threadpoolctl==3.6.0

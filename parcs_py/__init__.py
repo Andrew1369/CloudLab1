@@ -1,0 +1,1 @@
+from .parcs import Config

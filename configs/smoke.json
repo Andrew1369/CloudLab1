@@ -1,0 +1,7 @@
+{
+  "sizes": [32, 64],
+  "worker_counts": [1, 2, 4],
+  "repeats": 2,
+  "warmups": 1,
+  "seed": 42
+}
